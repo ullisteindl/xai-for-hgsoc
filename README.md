@@ -35,8 +35,13 @@ src/run_attributions_diffex.sh
 src/run_attributions_full.sh
 ```
 
+
 ## Discussion
-An in-depth discussion of the preliminary training setup is given in `reports/Masters_thesis_Artificial_Intelligence_2026_Ulrike_Steindl.pdf`.
+An in-depth discussion of the preliminary training setup is given in `docs/Masters_thesis_Artificial_Intelligence_2026_Ulrike_Steindl.pdf`.
+
+## Plots
+
+Some plots [available here](https://ullisteindl.github.io/xai-for-hgsoc/)
 
 ## Acknowledgments
 
